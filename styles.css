@@ -1,0 +1,53 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blanchedalmond;
+}
+
+header,
+footer {
+    background-color: rgb(179, 163, 140);
+}
+
+p {
+    font-size: 20px;
+    background-color: lightgray;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 42px;
+    color: blue;
+}
+
+h2 {
+    font-size: 30px;
+    color: darkcyan;
+}
+
+td {
+    text-align: center;
+}
+
+img {
+    border: 5px ridge rgb(175, 97, 1);
+    border-radius: 20px;
+}
+
+table {
+    border: 5px ridge blueviolet;
+    border-collapse: collapse;
+}
+
+tr,
+td,
+th {
+    border: 1px solid blueviolet;
+}
+
+a {
+    text-decoration: none;
+}
